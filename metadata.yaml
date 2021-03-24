@@ -1,0 +1,26 @@
+_repo: Abury-A-Temple-of-the-British-Druids-With-Some-Others-Described_64626
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stukeley, William
+    birthdate: 1687
+    deathdate: 1765
+    gutenberg_agent_id: '51491'
+    url: http://www.gutenberg.org/2009/agents/51491
+    wikipedia: https://en.wikipedia.org/wiki/William_Stukeley
+description: ''
+gutenberg_issued: '2021-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64626'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Avebury (England) -- Antiquities'
+- !lcsh 'Druids and Druidism'
+- !lcc 'DA'
+- GITenberg
+title: Abury, A Temple of the British Druids, With Some Others, Described
+url: http://www.gutenberg.org/ebooks/64626
